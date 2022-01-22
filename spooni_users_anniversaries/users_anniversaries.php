@@ -8,9 +8,6 @@
  * Author URI: http://www.adam.liziciar.sk
  */
 
-// Functions
-include(plugin_dir_path( __FILE__ )."functions.php");
-
 // Taxonomy
 include(plugin_dir_path( __FILE__ )."custom_types/custom_taxonomy_users_anniversaries.php");
 
